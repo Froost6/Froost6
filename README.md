@@ -12,5 +12,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge) 
-![Phyton](https://img1.wallspic.com/attachments/originals/4/9/3/3/6/163394-python_programer-python-programming_language-standing-source_code-3840x2160.png)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
