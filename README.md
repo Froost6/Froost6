@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats]
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -12,5 +12,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge) 
-![Phyton]
+![Phyton](https://img1.wallspic.com/attachments/originals/4/9/3/3/6/163394-python_programer-python-programming_language-standing-source_code-3840x2160.png)
 
