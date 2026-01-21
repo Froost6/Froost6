@@ -1,4 +1,4 @@
-## Hi there, I’m a beginner frontend developer, Yuri, from Russia.  
+## Hi there, I’m a frontend developer, Yuri, from Russia.  
 ### This is my profile where you can see my works.
 
 ### Статистика на GitHub
